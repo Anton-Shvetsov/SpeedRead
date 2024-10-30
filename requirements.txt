@@ -1,0 +1,6 @@
+numpy==1.24.3
+opencv-python==4.8.1.78
+param==1.13.0
+pillow==9.5.0
+tkinter==8.6
+unidecode==1.2.0
